@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+practica-calificada-1-VictorHugo-UTEC,asistente,Estudiante,6,0,0,0,3,0,1,0,1,0
+practica-calificada-1-VictorHugo-UTEC,asistente,Oliver,15,55,1,1,3,14,3,6,2,6
+practica-calificada-1-VictorHugo-UTEC,asistente,Libro,9,12,0,0,3,5,3,1,3,1
+practica-calificada-1-VictorHugo-UTEC,asistente,Autor,0,12,0,0,0,5,0,2,0,2
+practica-calificada-1-VictorHugo-UTEC,asistente,App,3,9,0,0,1,3,1,2,1,2

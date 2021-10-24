@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f05c8ac-476e-4515-b270-bb0fd7e4c8c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/asistente/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/asistente/Autor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/asistente/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/asistente/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/asistente/Oliver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/asistente/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/asistente/OliverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/asistente/OliverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/asistente/OliverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/practica-calificada-1-VictorHugo-UTEC-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/practica-calificada-1-VictorHugo-UTEC-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/report-task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/report-task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/asistente/OliverTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/asistente/OliverTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="TestNG.OliverTest.prueba">
+  <component name="RunManager" selected="Maven.Sonar">
     <configuration name="Sonar" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -129,7 +130,7 @@
       <workItem from="1634860694904" duration="1168000" />
       <workItem from="1634876495851" duration="1530000" />
       <workItem from="1634878951820" duration="1129000" />
-      <workItem from="1635034184035" duration="3520000" />
+      <workItem from="1635034184035" duration="4531000" />
     </task>
     <servers />
   </component>
